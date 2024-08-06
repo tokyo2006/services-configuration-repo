@@ -1,5 +1,6 @@
 {
-    "image_tag": "latest",
-    "helm_repo": "https://charts.bitnami.com/bitnami",
-    "helm_path": "bitnami/guestbook"
+    "image_tag": "0.1",
+    "helm_repo": "argocd-example-apps",
+    "helm_path": "helm-guestbook",
+    "values_path": "deployment"
 } 

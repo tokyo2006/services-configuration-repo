@@ -2,5 +2,6 @@
     "image_tag": "0.1",
     "helm_repo": "argocd-example-apps",
     "helm_path": "helm-guestbook",
-    "values_path": "deployment"
+    "values_path": "deployment",
+    "cluster_server": "https://kubernetes.default.svc"
 } 

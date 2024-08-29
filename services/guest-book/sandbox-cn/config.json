@@ -1,5 +1,5 @@
 {
-    "image_tag": "0.1",
+    "image_tag": "0.2",
     "helm_repo": "argocd-example-apps",
     "helm_path": "helm-guestbook",
     "values_path": "deployment",
